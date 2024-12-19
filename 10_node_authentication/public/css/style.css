@@ -1,0 +1,36 @@
+/* 1. Use a more-intuitive box-sizing model */
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+  /* 2. Remove default margin */
+  * {
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    block-size: 100%;
+  }
+
+  body {
+    /* 3. Add accessible line-height */
+    /* 4. Improve text rendering */
+    -webkit-font-smoothing: antialiased;
+    background-color: rgb(39, 4, 4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+  }
+  
+  /* 5. Improve media defaults */
+  img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+  }
+
+  h1 {
+    color:aqua;
+    font-size: 3rem;
+  }

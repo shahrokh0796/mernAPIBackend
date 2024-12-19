@@ -1,0 +1,19 @@
+[
+    {
+        "username": "chepe",
+        "roles": {
+            "User": 2001
+        },
+        "password": "$2b$10$ogICzLIguMshBR857/dgiOFPebeRPtDuQXpzGnqQFn7auq5XbBNbC",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNoZXBlIiwiaWF0IjoxNzMxNzI0ODA1LCJleHAiOjE3MzE4MTEyMDV9.BiSDpfDqea5yQ-OW_FonsIyMMfimJ2HxinmcRzzWvqo"
+    },
+    {
+        "username": "pacho",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984
+        },
+        "password": "$2b$10$nvKBUNDtI4Wf1F/RFUSBuO9y7mp9WIQfhNxFtfL5BlDADXPO.Hvv6",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InBhY2hvIiwiaWF0IjoxNzMyMzY2Nzk3LCJleHAiOjE3MzI0NTMxOTd9.MLLdrJKj8pv2713UumOZbjF5nlEN7lYgOibZBQaSREE"
+    }
+]

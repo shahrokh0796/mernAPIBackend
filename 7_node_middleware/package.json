@@ -1,0 +1,20 @@
+{
+  "name": "7_node_middleware",
+  "version": "1.0.0",
+  "description": "learning nodejs creating middleware lesson 7",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Said Shahrokh Temori",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "express": "^4.21.1",
+    "uuid": "^11.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

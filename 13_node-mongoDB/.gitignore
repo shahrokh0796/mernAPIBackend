@@ -1,0 +1,4 @@
+#ignore node moduoles, later it can be re installed by npm i
+node_modules
+#ignore dotenv variables 
+.env

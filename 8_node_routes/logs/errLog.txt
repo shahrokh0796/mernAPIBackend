@@ -1,0 +1,90 @@
+20241102	22:54:43	b162e841-ce6e-479f-94f6-99fface1dfbe	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:55:01	b7191d88-9eed-4d1a-adc3-33b7cb17ace1	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:55:04	1bc14426-93f0-49d0-9ea3-4a8a9cab35cb	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:55:09	737a0a08-01d5-4580-86f7-4bd48ba5e3fc	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:55:10	ee0f4f26-47da-4ddc-bfce-709942bfa0c6	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:56:30	7dc0410c-5624-4d98-9587-6cfcf0cec65a	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:56:30	e78b38e9-83d8-4dd7-bc0f-83b53189e4f2	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:56:30	897c625e-ba35-43e6-997b-912abfa2fb4a	TypeError: path.basename.join is not a function
+20241102	22:59:21	e475f6f6-7849-4c1c-9994-741cf393ffc9	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:59:21	723c2308-2123-4566-bd45-d5a156ff48c1	TypeError: path.basename.join is not a function
+20241102	22:59:35	564be2f0-ea00-43a6-9de0-b56c4fa99de4	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:59:36	e9dc9447-cca7-4c14-bc73-2f85ec2d2752	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	22:59:37	d19723a5-f316-447b-b827-688ebc107ba8	TypeError: path.basename.join is not a function
+20241102	23:00:21	90fe2ec6-f687-413b-a173-83a91feef3e3	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	23:00:21	60053c04-88fa-405d-83cb-732e2e6d2a45	TypeError: path.basename.join is not a function
+20241102	23:00:23	830a9126-0d66-445f-b546-bcf209ced364	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241102	23:00:23	829d7c05-2410-4be2-99d6-4ad9b38b0387	TypeError: path.basename.join is not a function
+20241103	07:49:50	582a7b2e-6f0d-4942-bc66-94c01392d62a	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241103	07:49:51	9972d4c8-0435-4388-ad37-06056cb6fa79	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\index.htlm'
+20241103	07:49:51	6ddea360-5809-499f-9144-5aeb52cc5c97	TypeError: path.basename.join is not a function
+20241103	07:53:01	6db327d4-2b16-4111-aeac-895ea3a35a74	TypeError: path.basename.join is not a function
+20241103	07:57:10	f6a3b8d3-aefe-4f53-9d32-6e02fd44b648	TypeError: path.basename.join is not a function
+20241103	07:57:10	0ff83d58-4867-4958-bb66-b10014096c0c	TypeError: path.basename.join is not a function
+20241103	07:57:47	ef487750-93fa-4dd9-940f-59d879dbd6d3	TypeError: path.basename.join is not a function
+20241103	07:57:47	93327a05-fe03-4aeb-88e3-5098aef4cfbe	TypeError: path.basename.join is not a function
+20241103	07:57:59	0803261b-ce35-4a31-92cd-282fba7318b9	TypeError: path.basename.join is not a function
+20241103	07:57:59	8d73a121-9cbc-4f50-bae9-17cd76b2c757	TypeError: path.basename.join is not a function
+20241103	07:58:30	78fd7ac2-fdcd-4bfa-9c9e-5a570bafbb27	TypeError: path.basename.join is not a function
+20241103	07:58:30	afb57690-f3db-4659-9999-3cc405dd080e	TypeError: path.basename.join is not a function
+20241103	07:58:32	b50f1562-9da0-4865-8d11-a4549c8521ee	TypeError: path.basename.join is not a function
+20241103	07:58:32	8be13c30-798a-4af0-91ab-a63aebb546f4	TypeError: path.basename.join is not a function
+20241103	07:58:44	a5310150-3239-49e1-8a54-5114e5df751e	TypeError: path.basename.join is not a function
+20241103	08:00:53	ddd20496-c2b6-44b9-9a4c-3956df282844	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\subdir\index.htlm'
+20241103	08:00:53	0518960e-eadd-423d-b531-b11271fb58a0	TypeError: path.basename.join is not a function
+20241103	08:01:02	29be2467-70dd-445f-b4d2-85c776fb17c6	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\subdir\index.htlm'
+20241103	08:01:02	ba5498e0-fc5f-4ff1-b0c5-18b4670449a6	TypeError: path.basename.join is not a function
+20241103	08:01:12	ad7c3faf-c2eb-40f2-9a71-6c62440d99ed	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\subdir\index.htlm'
+20241103	08:01:16	d906e47b-35c3-4d2c-b6ef-46ed5361a9de	TypeError: path.basename.join is not a function
+20241103	08:01:16	d40678bb-557d-4a22-848e-ff649068b0d6	TypeError: path.basename.join is not a function
+20241103	08:01:45	43a87ad8-61aa-4526-b308-fe9d2d0e78ce	TypeError: path.basename.join is not a function
+20241103	08:01:45	d1e46dff-3e86-4fde-a56a-d43cfbcc0d40	TypeError: path.basename.join is not a function
+20241103	08:01:53	a0423b56-a9db-4a9c-85b5-eda094ac1f7b	TypeError: path.basename.join is not a function
+20241103	08:03:11	0f70c084-4487-47a1-b202-03658141000b	TypeError: path.basename.join is not a function
+20241103	08:03:15	53c96d58-e006-4e52-9d10-f0161f32aa5f	TypeError: path.basename.join is not a function
+20241103	08:03:23	2077e028-b6c2-4905-ae8f-3bb595385488	TypeError: path.basename.join is not a function
+20241103	08:03:31	3e5a574b-4298-4e35-8ff3-783022a34019	TypeError: path.basename.join is not a function
+20241103	08:04:30	bd5784c4-1184-4479-9f8c-33ddfc868551	TypeError: path.basename.join is not a function
+20241103	08:04:30	ab665df0-6d6c-4f46-b817-d0f7582ae2fd	TypeError: path.basename.join is not a function
+20241103	08:06:45	814364b2-1aa0-4350-a46c-5cf45348bbdb	TypeError: path.basename.join is not a function
+20241103	08:06:45	7d748b12-f606-4d50-98a4-85c42702a94a	TypeError: path.basename.join is not a function
+20241103	08:08:20	5dc0d29f-ddb0-48a5-9a18-9b7f6e8ba4ea	TypeError: path.basename.join is not a function
+20241103	08:08:20	5de7d12f-4e01-4c91-a23c-0829df2d1d41	TypeError: path.basename.join is not a function
+20241103	08:08:26	83b82b3c-cf69-473f-b439-931fd2ffb7ba	TypeError: path.basename.join is not a function
+20241103	08:17:33	d80ff566-21b0-45f9-a6ca-503cf72d6dfd	TypeError: path.basename.join is not a function
+20241103	08:17:44	69cf2ea8-fae5-4554-a428-b92d6763e1ec	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\new=page.html'
+20241103	08:17:47	b7520423-2517-4881-b376-43bc33bda6ad	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\new=page.html'
+20241103	08:17:48	52ca6707-739e-41af-ae10-d827cb67e3b8	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\new=page.html'
+20241103	08:17:48	6fd821c9-051f-4482-8252-79956b2a99a6	TypeError: path.basename.join is not a function
+20241103	08:18:21	e3e0b20d-b407-41d5-957d-6af2b78c6973	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\new=page.html'
+20241103	08:18:22	5ab3e2f5-4a7d-4de0-a069-f38351fa153b	Error: ENOENT: no such file or directory, stat 'D:\projects\course_node_js\8_node_routes\views\new=page.html'
+20241103	08:18:22	c251b5f3-cd4a-42d6-aa2d-58ef4f2e6878	TypeError: path.basename.join is not a function
+20241103	08:18:33	5404d37d-5467-41dd-9e28-8a75480d79b1	TypeError: path.basename.join is not a function
+20241103	08:18:33	6c5d0a57-cddc-4aef-a64d-c871a32c5897	TypeError: path.basename.join is not a function
+20241103	08:18:39	08e0da59-2675-4bf5-bcf7-004dd4124d91	TypeError: path.basename.join is not a function
+20241103	08:18:40	9fa1986e-f556-4d0c-9e0d-a5889639f4d1	TypeError: path.basename.join is not a function
+20241103	08:21:54	a389ed51-d8b7-44d0-8531-a73ffa149b43	TypeError: path.basename.join is not a function
+20241103	08:21:59	83c0ed5d-e34f-4d39-85d6-93e08be002c3	TypeError: path.basename.join is not a function
+20241103	08:21:59	3e3dd2d1-ae09-4c36-9597-ae9634366808	TypeError: path.basename.join is not a function
+20241103	08:22:44	baa1a545-d7ef-44a5-aa17-99e067bccb88	TypeError: path.basename.join is not a function
+20241103	08:22:47	37275602-fba0-4d86-83fb-9582e44c283d	TypeError: path.basename.join is not a function
+20241103	08:24:06	3898037f-eb1a-42dc-b5d8-ece1293c51b6	TypeError: path.basename.join is not a function
+20241103	08:24:06	4887c473-a5e0-4c31-b59b-a3fd0c821cd9	TypeError: path.basename.join is not a function
+20241103	08:24:11	fd9bd528-6d3e-40b1-8038-96c5c2e9a919	TypeError: path.basename.join is not a function
+20241103	08:24:16	18b3b720-ff9d-4365-83d0-b0842b29f4ec	TypeError: path.basename.join is not a function
+20241103	08:24:25	c35c699c-455e-4c70-b19d-4c362ee47363	TypeError: path.basename.join is not a function
+20241103	08:24:26	441d4bed-f5b0-49f0-8dce-0a5577b6c3d1	TypeError: path.basename.join is not a function
+20241103	08:25:21	fba115fb-59cf-4bf9-91ef-76da636ccb95	TypeError: path.basename.join is not a function
+20241103	08:25:21	fb6b2241-8f1d-4655-833e-a3d933e657a6	TypeError: path.basename.join is not a function
+20241103	08:25:26	ebfc5d80-89be-41fe-97f3-a6f0ec8fa8bd	TypeError: path.basename.join is not a function
+20241103	08:25:26	0c06a6bb-c49b-4408-8dad-896711941836	TypeError: path.basename.join is not a function
+20241103	08:25:38	46509b92-2bbb-4d6b-8ff6-38ef05f05e75	TypeError: path.basename.join is not a function
+20241103	08:25:38	8121c5c0-a52c-438b-a32e-ba1303a4c1f0	TypeError: path.basename.join is not a function
+20241103	08:26:15	a833af99-6ab6-4aa5-9abe-7032fafdcebd	TypeError: path.basename.join is not a function
+20241103	08:26:30	0baea5f5-b502-41ff-a9ae-55b76d2fac43	TypeError: path.basename.join is not a function
+20241103	08:26:34	fd427136-71bf-419d-826f-b63f16f6129c	TypeError: path.basename.join is not a function
+20241103	08:26:34	3e2658ae-8d2f-45c3-9b72-df6748cf7196	TypeError: path.basename.join is not a function
+20241103	08:27:17	56e692b9-63b8-436e-82b7-dd83bc213c46	TypeError: path.basename.join is not a function
+20241103	08:27:17	64c3b120-f350-406d-9435-c3bbc86d7582	TypeError: path.basename.join is not a function
+20241103	08:28:05	073e4735-05c9-4a46-9eaa-58b02eb86634	TypeError: path.basename.join is not a function
+20241103	08:28:05	0ed0a6a7-b096-4777-aa34-6d1a1b12ab1d	TypeError: path.basename.join is not a function

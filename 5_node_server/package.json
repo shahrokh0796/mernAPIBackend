@@ -1,0 +1,19 @@
+{
+  "name": "5_node_server",
+  "version": "1.0.0",
+  "description": "learning nodejs, building a server without express, lesson 5",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Said",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "uuid": "^11.0.2"
+  }
+}
